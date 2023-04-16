@@ -1,0 +1,13 @@
+.envrc
+.env
+venv
+*.pyc
+*.db
+.coverage
+local_settings.py
+private_settings.py
+static/*
+.idea
+.vscode/
+.pytype
+__pycache__
